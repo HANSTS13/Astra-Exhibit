@@ -5,7 +5,8 @@
 
     <application
         android:allowBackup="true"
-        android:supportsRtl="true">
+        android:supportsRtl="true"
+        android:label="DrawTune">
 
         <activity
             android:name=".MainActivity"
